@@ -13,6 +13,6 @@ public class EqualizerDecorator extends MusicSourceDecorator {
 
     private void setEqualizer() {
         System.out.println("Equalizer settings applied.");
-        // Logic to apply equalizer settings
+        
     }
 }
